@@ -1,0 +1,3 @@
+models/
+models/cosine_similarity.pkl
+models/tfidf_vectorizer.pkl
