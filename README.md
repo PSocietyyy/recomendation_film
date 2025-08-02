@@ -54,7 +54,7 @@
 
 1. Clone repo:
 ```bash
-   git clone https://github.com/username/movie-recommender.git
+   git clone https://github.com/PSocietyyy/recomendation_film.git
    cd movie-recommender/notebook
 ```
 
